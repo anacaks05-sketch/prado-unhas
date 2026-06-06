@@ -1,0 +1,19 @@
+PRADO UNHAS - PWA INSTALÁVEL
+
+Arquivos:
+- index.html
+- manifest.json
+- service-worker.js
+- icon-192.png
+- icon-512.png
+
+COMO ATUALIZAR NO GITHUB:
+1. Entre no repositório prado-unhas.
+2. Clique em Add file > Upload files.
+3. Envie TODOS os arquivos desta pasta.
+4. Confirme em Commit changes.
+5. Aguarde a Vercel atualizar.
+
+COMO INSTALAR NO CELULAR:
+iPhone: abra https://prado-unhas.vercel.app no Safari > Compartilhar > Adicionar à Tela de Início.
+Android: abra no Chrome > 3 pontinhos > Instalar app ou Adicionar à tela inicial.
